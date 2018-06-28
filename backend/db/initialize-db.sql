@@ -1,8 +1,5 @@
 
-/****** Object:  Database [devops-db]    Script Date: 2/16/2018 10:54:40 AM ******/
-CREATE DATABASE [devops-db]
-GO
-/****** Object:  Table [dbo].[Incidents]    Script Date: 2/16/2018 10:54:40 AM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
